@@ -1,0 +1,8 @@
+[package]
+name = "maexchen"
+version = "0.1.0"
+authors = ["Kappadeus <Jakob.Lachermeier98@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
