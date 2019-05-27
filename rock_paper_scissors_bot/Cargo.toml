@@ -1,0 +1,11 @@
+[package]
+name = "rock_paper_scissors_bot"
+version = "0.1.0"
+authors = ["Jakob Lachermeier <jakob.lachermeier98@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.5"
+
+[patch.crates-io]
+openssl = { git = "https://github.com/ishitatsuyuki/rust-openssl", branch = "0.9.x" }
