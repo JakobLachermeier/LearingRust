@@ -1,0 +1,3 @@
+cargo:rustc-cfg=ossl111
+cargo:rustc-cfg=ossl11x
+cargo:rustc-cfg=osslconf="OPENSSL_NO_SSL3_METHOD"
