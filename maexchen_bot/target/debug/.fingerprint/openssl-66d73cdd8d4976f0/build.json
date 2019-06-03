@@ -1,1 +1,0 @@
-{"rustc":11662075050264400882,"features":"","target":0,"profile":0,"path":0,"deps":[["openssl v0.9.24 (https://github.com/ishitatsuyuki/rust-openssl?branch=0.9.x#3b73dda4)","build_script_build",11010924934409425508]],"local":[{"Precalculated":"3b73dda4b31c2b8ea8417fb6d68e451d2e4b3633"}],"rustflags":[],"metadata":0}
